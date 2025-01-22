@@ -1,7 +1,7 @@
 Raesfeld Flughafen = Raesfeld Airport
 Berlin = the capital city of Germany
 Bratwurst = a bratwurst
-hauptstrasse = main road (of a city, but hauptstrasse brot may mean streat bread)
+hauptstrasse = main road (of a city, but hauptstrasse brot may mean street bread)
 brot = bread
 klimaanlage = air conditioning
 Rammstein = popular German heavy metal group
